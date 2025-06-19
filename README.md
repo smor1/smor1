@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 
 <p align="left">
-Front-end developer specialized in HTML/CSS integration, web accessibility, and user experience design
+Front-end developer specialized in HTML/CSS/JS integration, Angular, web accessibility, and user experience design
 </p>
 
 <h3 align="left">Contact me</h3>
